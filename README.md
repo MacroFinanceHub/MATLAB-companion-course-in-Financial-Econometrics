@@ -1,5 +1,6 @@
 # MFE MATLAB Companion Course
 [![](https://icon-icons.com/icons2/278/PNG/64/MATLAB_30213.png)](https://www.kevinsheppard.com/teaching/matlab/mfe-matlab/)
+
 This repository contains the solutions for the MATLAB companion course in Financial Econometrics. All scrips are in the MLX format presented in class. These scrips are divided into three sections:
 
   - MATLAB Review;
